@@ -1,0 +1,1 @@
+Custom template for the Homepage docker image : https://github.com/gethomepage/homepage
