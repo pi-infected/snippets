@@ -1,0 +1,30 @@
+---
+title: RSS Server Dashboard
+favicon: https://raw.githubusercontent.com/gethomepage/homepage/main/images/favicon.png
+
+theme: light
+color: emerald
+
+headerStyle: boxed
+hideVersion: true
+
+layout:
+  Infrastructure:
+    style: row
+    columns: 3
+  Base de données:
+    style: row
+    columns: 3
+  IA et services:
+    style: row
+    columns: 3
+  Applications:
+    style: row
+    columns: 3
+  Workers:
+    style: row
+    columns: 3
+
+statusStyle: dot
+showStats: true
+target: _blank
